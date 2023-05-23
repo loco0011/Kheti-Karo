@@ -2,9 +2,9 @@
   "name": "Kheti-Karo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.py",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.py"
   },
   "repository": {
     "type": "git",
